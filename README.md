@@ -28,6 +28,7 @@
 ## OUTPUT:
 
 
+![239750792-99978234-96b1-4433-abf3-95fb5291de2a](https://github.com/tamizhselvan1920/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121148386/ec37d60e-a207-46bf-aae3-2a581aa5b2ab)
 
 
 #### Y-Axis Base:
@@ -72,6 +73,7 @@ The extruder is a critical component in a Polar 3D printer assembly. It is respo
 ## Output:
 
 
+![239750877-695d02b8-0401-421a-8e66-465bbeaadf54](https://github.com/tamizhselvan1920/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121148386/acbb027e-80da-4fd8-81d9-9d99af7467c1)
 
 
 
